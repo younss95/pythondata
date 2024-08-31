@@ -49,3 +49,5 @@ cartes = [13,11,10,7,4,3,1,0]
 query = 1
 
 print(locate_card(cartes, query))
+
+print("okk")
