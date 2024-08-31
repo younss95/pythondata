@@ -50,4 +50,3 @@ query = 1
 
 print(locate_card(cartes, query))
 
-print("okk")
